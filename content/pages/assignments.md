@@ -27,13 +27,106 @@ Papers must be submitted in the morning before each class. No late papers are a
 
 Be creative and imaginative! Good luck!
 
-| SES # | TOPICS | WEEKLY QUESTIONS | STUDENT SAMPLES |
-| --- | --- | --- | --- |
-| 2 | Issues in the History of Computing | ([PDF]({{< baseurl >}}/resources/week2)) | Daniel Roy ([PDF]({{< baseurl >}}/resources/2dan)) |
-| 3 | Computers in Nuclear Physics: ENIAC and the Hydrogen Bomb | ([PDF]({{< baseurl >}}/resources/week3)) | Anthony Grue ([PDF]({{< baseurl >}}/resources/3anthony))  {{< br >}}Steven Stern ([PDF]({{< baseurl >}}/resources/3steve)) (Courtesy of Steven Stern. Used with permission.) |
-| 4 | Computers in Meteorology: Simulating the World | ([PDF]({{< baseurl >}}/resources/week4)) | Jason Ruchelsman ([PDF]({{< baseurl >}}/resources/4jason)) (Courtesy of Jason Ruchelsman. Used with permission.)  {{< br >}}Katherine A. Franco ([PDF]({{< baseurl >}}/resources/4kathy)) (Courtesy of Katherine Franco. Used with permission.) |
-| 5 | Computers in Mathematics: The Logic Theorist and the Automation of Proof | ([PDF]({{< baseurl >}}/resources/week5)) | Joshua Tauber ([PDF]({{< baseurl >}}/resources/5josh1))  {{< br >}}Patrick Griffin ([PDF]({{< baseurl >}}/resources/5patrick)) (Courtesy of Patrick Griffin. Used with permission.) |
-| 6 | Computers in Cognitive Psychology: GPS and Psychological Theory | ([PDF]({{< baseurl >}}/resources/week6)) | Aaron Bell ([PDF]({{< baseurl >}}/resources/6aaron1)) (Courtesy of Aaron Bell. Used with permission.)  {{< br >}}Steven Stern ([PDF]({{< baseurl >}}/resources/6steve)) (Courtesy of Steven Stern. Used with permission.) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+WEEKLY QUESTIONS
+{{< thclose >}}
+{{< thopen >}}
+STUDENT SAMPLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Issues in the History of Computing
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/week2))
+{{< tdclose >}}
+{{< tdopen >}}
+Daniel Roy ([PDF]({{< baseurl >}}/resources/2dan))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Computers in Nuclear Physics: ENIAC and the Hydrogen Bomb
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/week3))
+{{< tdclose >}}
+{{< tdopen >}}
+Anthony Grue ([PDF]({{< baseurl >}}/resources/3anthony))  
+Steven Stern ([PDF]({{< baseurl >}}/resources/3steve)) (Courtesy of Steven Stern. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Computers in Meteorology: Simulating the World
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/week4))
+{{< tdclose >}}
+{{< tdopen >}}
+Jason Ruchelsman ([PDF]({{< baseurl >}}/resources/4jason)) (Courtesy of Jason Ruchelsman. Used with permission.)  
+Katherine A. Franco ([PDF]({{< baseurl >}}/resources/4kathy)) (Courtesy of Katherine Franco. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Computers in Mathematics: The Logic Theorist and the Automation of Proof
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/week5))
+{{< tdclose >}}
+{{< tdopen >}}
+Joshua Tauber ([PDF]({{< baseurl >}}/resources/5josh1))  
+Patrick Griffin ([PDF]({{< baseurl >}}/resources/5patrick)) (Courtesy of Patrick Griffin. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Computers in Cognitive Psychology: GPS and Psychological Theory
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/week6))
+{{< tdclose >}}
+{{< tdopen >}}
+Aaron Bell ([PDF]({{< baseurl >}}/resources/6aaron1)) (Courtesy of Aaron Bell. Used with permission.)  
+Steven Stern ([PDF]({{< baseurl >}}/resources/6steve)) (Courtesy of Steven Stern. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### {{< anchor "structured" >}}{{< /anchor >}}Reading Response Paper Assignment (Sessions 7-13: The Structured Format)
 
@@ -49,14 +142,123 @@ Write a 1-2 page **structured paper** in response to your readings. The paper mu
 
 Devote no more than 1-2 paragraphs to each section. You may combine sections 2 and 3, if necessary. I realize that information in your readings may not be sufficient to fill all the sections; do the best you can. Your paper does not have to cite all the readings for the week, but you must read all of them. Spell-check and proof-read your paper before submission.
 
-| SES # | TOPICS | WEEKLY QUESTIONS | STUDENT SAMPLES |
-| --- | --- | --- | --- |
-| 7 | Computers in Biochemistry: DENDRAL and Knowledge Engineering | ([PDF]({{< baseurl >}}/resources/week7)) | Aaron Bell ([PDF]({{< baseurl >}}/resources/7aaron)) (Courtesy of Aaron Bell. Used with permission.)  {{< br >}}Jason Ruchelsman ([PDF]({{< baseurl >}}/resources/7jason)) (Courtesy of Jason Ruchelsman. Used with permission.) |
-| 8 | Computers in Aerospace: The Apollo Guidance Computer | ([PDF]({{< baseurl >}}/resources/week8)) | Anthony Grue ([PDF]({{< baseurl >}}/resources/8anthony))  {{< br >}}Patrick Griffin ([PDF]({{< baseurl >}}/resources/8patrick)) (Courtesy of Patrick Griffin. Used with permission.) |
-| 10 | Computers in Medicine: MYCIN and the Formalization of Expertise | ([PDF]({{< baseurl >}}/resources/week10)) | Aaron Bell ([PDF]({{< baseurl >}}/resources/10aaron)) (Courtesy of Aaron Bell. Used with permission.)  {{< br >}}Daniel Roy ([PDF]({{< baseurl >}}/resources/10dan)) |
-| 11 | Supercomputing at Home: A Social Experiment in Distributed Computing | ([PDF]({{< baseurl >}}/resources/week11)) | Antoinne Machal-Cajigas ([PDF]({{< baseurl >}}/resources/11antoinne))  {{< br >}}Patrick Griffin ([PDF]({{< baseurl >}}/resources/11patrick)) (Courtesy of Patrick Griffin. Used with permission.) |
-| 12 | Computers in Linguistics: Lost in Machine Translation | ([PDF]({{< baseurl >}}/resources/week12)) | Aaron Bell ([PDF]({{< baseurl >}}/resources/12aaron)) (Courtesy of Aaron Bell. Used with permission.)  {{< br >}}Steven Stern ([PDF]({{< baseurl >}}/resources/12steve)) (Courtesy of Steven Stern. Used with permission.) |
-| 13 | Computers in the Humanities: Hype, Text, and Hypertext | ([PDF]({{< baseurl >}}/resources/week13)) | Aaron Bell ([PDF]({{< baseurl >}}/resources/13aaron)) (Courtesy of Aaron Bell. Used with permission.)  {{< br >}}Patrick Griffin ([PDF]({{< baseurl >}}/resources/13patrick)) (Courtesy of Patrick Griffin. Used with permission.) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+WEEKLY QUESTIONS
+{{< thclose >}}
+{{< thopen >}}
+STUDENT SAMPLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Computers in Biochemistry: DENDRAL and Knowledge Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/week7))
+{{< tdclose >}}
+{{< tdopen >}}
+Aaron Bell ([PDF]({{< baseurl >}}/resources/7aaron)) (Courtesy of Aaron Bell. Used with permission.)  
+Jason Ruchelsman ([PDF]({{< baseurl >}}/resources/7jason)) (Courtesy of Jason Ruchelsman. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Computers in Aerospace: The Apollo Guidance Computer
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/week8))
+{{< tdclose >}}
+{{< tdopen >}}
+Anthony Grue ([PDF]({{< baseurl >}}/resources/8anthony))  
+Patrick Griffin ([PDF]({{< baseurl >}}/resources/8patrick)) (Courtesy of Patrick Griffin. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Computers in Medicine: MYCIN and the Formalization of Expertise
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/week10))
+{{< tdclose >}}
+{{< tdopen >}}
+Aaron Bell ([PDF]({{< baseurl >}}/resources/10aaron)) (Courtesy of Aaron Bell. Used with permission.)  
+Daniel Roy ([PDF]({{< baseurl >}}/resources/10dan))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Supercomputing at Home: A Social Experiment in Distributed Computing
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/week11))
+{{< tdclose >}}
+{{< tdopen >}}
+Antoinne Machal-Cajigas ([PDF]({{< baseurl >}}/resources/11antoinne))  
+Patrick Griffin ([PDF]({{< baseurl >}}/resources/11patrick)) (Courtesy of Patrick Griffin. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Computers in Linguistics: Lost in Machine Translation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/week12))
+{{< tdclose >}}
+{{< tdopen >}}
+Aaron Bell ([PDF]({{< baseurl >}}/resources/12aaron)) (Courtesy of Aaron Bell. Used with permission.)  
+Steven Stern ([PDF]({{< baseurl >}}/resources/12steve)) (Courtesy of Steven Stern. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Computers in the Humanities: Hype, Text, and Hypertext
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/week13))
+{{< tdclose >}}
+{{< tdopen >}}
+Aaron Bell ([PDF]({{< baseurl >}}/resources/13aaron)) (Courtesy of Aaron Bell. Used with permission.)  
+Patrick Griffin ([PDF]({{< baseurl >}}/resources/13patrick)) (Courtesy of Patrick Griffin. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "FinalPaperAssignment" >}}{{< /anchor >}}Final Paper Assignment
 --------------------------------------------------------------------------

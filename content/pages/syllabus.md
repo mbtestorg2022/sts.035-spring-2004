@@ -32,8 +32,45 @@ Grading
 The seminar meets only once a week. This means that attendance is particularly important. If you do need to miss class, you must obtain permission from the instructor in advance.  
 Final grades will be determined as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 30 |
-| Reading Response Papers | 40 |
-| Final Paper | 30
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading Response Papers
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
